@@ -20,5 +20,3 @@ With this toolbox you can:
 - look at **speed data** and simple statistics,
 - see basic **flow–speed–density** relations,
 - and do **simple safety calculations**, like crash rates and crash reduction factors.
-
----
