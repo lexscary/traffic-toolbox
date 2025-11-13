@@ -11,7 +11,7 @@ so you can see how the formulas work and understand them a little better.
 ## 🧰 What is this app?
 
 This app is like a small calculator for people who study or work in traffic.  
-It follows topics from a university course called **CIVL3160 – Transportation Engineering**,  
+It follows topics from York university course called **CIVL3160 – Transportation Engineering**,  
 but it can also help any beginner in traffic or transportation engineering.
 
 With this toolbox you can:
